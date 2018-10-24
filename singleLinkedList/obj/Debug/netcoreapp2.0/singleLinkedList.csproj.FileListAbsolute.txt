@@ -1,0 +1,10 @@
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/bin/Debug/netcoreapp2.0/singleLinkedList.deps.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/bin/Debug/netcoreapp2.0/singleLinkedList.runtimeconfig.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/bin/Debug/netcoreapp2.0/singleLinkedList.runtimeconfig.dev.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/bin/Debug/netcoreapp2.0/singleLinkedList.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/bin/Debug/netcoreapp2.0/singleLinkedList.pdb
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/obj/Debug/netcoreapp2.0/singleLinkedList.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/obj/Debug/netcoreapp2.0/singleLinkedList.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/obj/Debug/netcoreapp2.0/singleLinkedList.AssemblyInfo.cs
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/obj/Debug/netcoreapp2.0/singleLinkedList.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/singleLinkedList/obj/Debug/netcoreapp2.0/singleLinkedList.pdb

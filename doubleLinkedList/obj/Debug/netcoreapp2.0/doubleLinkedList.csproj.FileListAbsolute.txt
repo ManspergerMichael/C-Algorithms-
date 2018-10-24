@@ -1,0 +1,10 @@
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/bin/Debug/netcoreapp2.0/doubleLinkedList.deps.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/bin/Debug/netcoreapp2.0/doubleLinkedList.runtimeconfig.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/bin/Debug/netcoreapp2.0/doubleLinkedList.runtimeconfig.dev.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/bin/Debug/netcoreapp2.0/doubleLinkedList.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/bin/Debug/netcoreapp2.0/doubleLinkedList.pdb
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/obj/Debug/netcoreapp2.0/doubleLinkedList.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/obj/Debug/netcoreapp2.0/doubleLinkedList.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/obj/Debug/netcoreapp2.0/doubleLinkedList.AssemblyInfo.cs
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/obj/Debug/netcoreapp2.0/doubleLinkedList.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/doubleLinkedList/obj/Debug/netcoreapp2.0/doubleLinkedList.pdb
