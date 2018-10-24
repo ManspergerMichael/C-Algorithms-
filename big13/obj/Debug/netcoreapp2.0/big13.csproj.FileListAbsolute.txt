@@ -1,0 +1,10 @@
+/Users/michaelmansperger/Desktop/CReview/big13/bin/Debug/netcoreapp2.0/big13.deps.json
+/Users/michaelmansperger/Desktop/CReview/big13/bin/Debug/netcoreapp2.0/big13.runtimeconfig.json
+/Users/michaelmansperger/Desktop/CReview/big13/bin/Debug/netcoreapp2.0/big13.runtimeconfig.dev.json
+/Users/michaelmansperger/Desktop/CReview/big13/bin/Debug/netcoreapp2.0/big13.dll
+/Users/michaelmansperger/Desktop/CReview/big13/bin/Debug/netcoreapp2.0/big13.pdb
+/Users/michaelmansperger/Desktop/CReview/big13/obj/Debug/netcoreapp2.0/big13.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Desktop/CReview/big13/obj/Debug/netcoreapp2.0/big13.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Desktop/CReview/big13/obj/Debug/netcoreapp2.0/big13.AssemblyInfo.cs
+/Users/michaelmansperger/Desktop/CReview/big13/obj/Debug/netcoreapp2.0/big13.dll
+/Users/michaelmansperger/Desktop/CReview/big13/obj/Debug/netcoreapp2.0/big13.pdb
