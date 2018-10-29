@@ -1,0 +1,10 @@
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/bin/Debug/netcoreapp2.0/IntToBinary.deps.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/bin/Debug/netcoreapp2.0/IntToBinary.runtimeconfig.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/bin/Debug/netcoreapp2.0/IntToBinary.runtimeconfig.dev.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/bin/Debug/netcoreapp2.0/IntToBinary.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/bin/Debug/netcoreapp2.0/IntToBinary.pdb
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/obj/Debug/netcoreapp2.0/IntToBinary.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/obj/Debug/netcoreapp2.0/IntToBinary.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/obj/Debug/netcoreapp2.0/IntToBinary.AssemblyInfo.cs
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/obj/Debug/netcoreapp2.0/IntToBinary.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/IntToBinary/obj/Debug/netcoreapp2.0/IntToBinary.pdb
