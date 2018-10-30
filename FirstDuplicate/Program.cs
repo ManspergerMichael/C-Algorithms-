@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace FirstDuplicate
 {
@@ -36,6 +37,24 @@ namespace FirstDuplicate
                 }
             }
             return value;
+        }
+        //This function uses a HashSet, accessing is O(1) time
+        //so the algorithim iterates through the array at most once
+        //O(n).
+        //This method finds the first duplicate and returns that value without multiple 
+        //traversals through the array
+        int firstDuplicateHash(int[] a) {
+        HashSet<int> dict = new HashSet<int>();
+        for(var i = 0; i < a.Length; i++){
+            //if dict contains a[i]
+            if(dict.Contains(a[i])){
+                return a[i];
+            }
+            else{
+                dict.Add(a[i]);
+            }
+        }
+        return -1;
         }
     }
 }
