@@ -1,0 +1,11 @@
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.deps.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.runtimeconfig.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.runtimeconfig.dev.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/bin/Debug/netcoreapp2.1/ReverseInt.pdb
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.csprojAssemblyReference.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.AssemblyInfo.cs
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/ReverseInt/obj/Debug/netcoreapp2.1/ReverseInt.pdb

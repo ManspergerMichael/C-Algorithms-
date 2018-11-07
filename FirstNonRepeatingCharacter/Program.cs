@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace FirstNonRepeatingCharacter
 {
@@ -7,7 +8,7 @@ namespace FirstNonRepeatingCharacter
         static void Main(string[] args)
         {
             string s = "ngrhhqbhnsipkcoqjyviikvxbxyphsnjpdxkhtadltsuxbfbrkof";
-            System.Console.WriteLine(FirstNonRepeatingCharacter(s));
+            System.Console.WriteLine(firstNotRepeatingCharacter(s));
         }
         /* Note: Write a solution that only iterates over the string once and uses O(1) additional memory,
         since this is what you would be asked to do during a real interview.
@@ -15,7 +16,7 @@ namespace FirstNonRepeatingCharacter
         Given a string s, find and return the first instance of a non-repeating character in it. 
         If there is no such character, return '_'. */
 
-        char firstNotRepeatingCharacter(string s) {
+        static char firstNotRepeatingCharacter(string s) {
             //This dictionary uses the characters as the keys and the number of times they occor in the string as the value
             Dictionary<char,int> dict = new Dictionary<char,int>();
             //convert the string to a char array. I could iterate through the string but my brain works better with arrays
