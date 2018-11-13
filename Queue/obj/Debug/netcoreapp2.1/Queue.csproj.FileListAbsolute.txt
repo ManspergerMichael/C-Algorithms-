@@ -1,0 +1,11 @@
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/bin/Debug/netcoreapp2.1/Queue.deps.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/bin/Debug/netcoreapp2.1/Queue.runtimeconfig.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/bin/Debug/netcoreapp2.1/Queue.runtimeconfig.dev.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/bin/Debug/netcoreapp2.1/Queue.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/bin/Debug/netcoreapp2.1/Queue.pdb
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/obj/Debug/netcoreapp2.1/Queue.csprojAssemblyReference.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/obj/Debug/netcoreapp2.1/Queue.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/obj/Debug/netcoreapp2.1/Queue.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/obj/Debug/netcoreapp2.1/Queue.AssemblyInfo.cs
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/obj/Debug/netcoreapp2.1/Queue.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Queue/obj/Debug/netcoreapp2.1/Queue.pdb
