@@ -8,19 +8,26 @@ namespace Queue
         {
             SLQueue queue = new SLQueue();
             //System.Console.WriteLine(queue.isEmpty());
-            queue.EnQueue(1);
-            queue.EnQueue(2);
             queue.EnQueue(3);
+            queue.EnQueue(4);
+            queue.EnQueue(3);
+            queue.EnQueue(6);
+            queue.EnQueue(8);
+            queue.EnQueue(5);
+            queue.EnQueue(9);
             //System.Console.WriteLine(queue.Contains(3));
             //Node temp = queue.DeQueue();
             //temp.print();
             //System.Console.WriteLine(queue.Front());
             //System.Console.WriteLine(queue.isEmpty());
             System.Console.WriteLine(queue.size());
+            RemoveMin(queue);
+            System.Console.WriteLine(queue.size());
+
             
         }
 
-        public bool compaire(SLQueue q1, SLQueue q2){
+        public static bool compaire(SLQueue q1, SLQueue q2){
             Node runner1 = q1.head;
             Node runner2 = q2.head;
             while(runner1 != null && runner2 != null){
@@ -32,7 +39,7 @@ namespace Queue
             }
             return true;
         }
-        public void RemoveMin(SLQueue queue){
+        public static void RemoveMin(SLQueue queue){
             int min = queue.head.val;
             Node runner = queue.head;
             while(runner != null){
@@ -41,11 +48,15 @@ namespace Queue
                 }
                 runner = runner.next;
             }
+            if(queue.head.val == min){
+                queue.head = queue.head.next;
+            }
             runner = queue.head;
-            while(runner != null){
+            while(runner != queue.tail){
                 if(runner.next.val == min){
                     runner.next = runner.next.next;
                 }
+                runner = runner.next;
             }
         }
     }
