@@ -1,0 +1,11 @@
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/bin/Debug/netcoreapp2.1/circleQueue.deps.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/bin/Debug/netcoreapp2.1/circleQueue.runtimeconfig.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/bin/Debug/netcoreapp2.1/circleQueue.runtimeconfig.dev.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/bin/Debug/netcoreapp2.1/circleQueue.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/bin/Debug/netcoreapp2.1/circleQueue.pdb
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/obj/Debug/netcoreapp2.1/circleQueue.csprojAssemblyReference.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/obj/Debug/netcoreapp2.1/circleQueue.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/obj/Debug/netcoreapp2.1/circleQueue.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/obj/Debug/netcoreapp2.1/circleQueue.AssemblyInfo.cs
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/obj/Debug/netcoreapp2.1/circleQueue.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/circleQueue/obj/Debug/netcoreapp2.1/circleQueue.pdb
