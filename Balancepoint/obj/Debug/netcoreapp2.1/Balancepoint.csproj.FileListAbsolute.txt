@@ -1,0 +1,11 @@
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/bin/Debug/netcoreapp2.1/Balancepoint.deps.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/bin/Debug/netcoreapp2.1/Balancepoint.runtimeconfig.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/bin/Debug/netcoreapp2.1/Balancepoint.runtimeconfig.dev.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/bin/Debug/netcoreapp2.1/Balancepoint.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/bin/Debug/netcoreapp2.1/Balancepoint.pdb
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/obj/Debug/netcoreapp2.1/Balancepoint.csprojAssemblyReference.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/obj/Debug/netcoreapp2.1/Balancepoint.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/obj/Debug/netcoreapp2.1/Balancepoint.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/obj/Debug/netcoreapp2.1/Balancepoint.AssemblyInfo.cs
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/obj/Debug/netcoreapp2.1/Balancepoint.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/Balancepoint/obj/Debug/netcoreapp2.1/Balancepoint.pdb
