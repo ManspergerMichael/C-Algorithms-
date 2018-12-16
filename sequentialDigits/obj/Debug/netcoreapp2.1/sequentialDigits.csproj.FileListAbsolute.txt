@@ -1,0 +1,11 @@
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/obj/Debug/netcoreapp2.1/sequentialDigits.csprojAssemblyReference.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/obj/Debug/netcoreapp2.1/sequentialDigits.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/obj/Debug/netcoreapp2.1/sequentialDigits.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/obj/Debug/netcoreapp2.1/sequentialDigits.AssemblyInfo.cs
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/bin/Debug/netcoreapp2.1/sequentialDigits.deps.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/bin/Debug/netcoreapp2.1/sequentialDigits.runtimeconfig.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/bin/Debug/netcoreapp2.1/sequentialDigits.runtimeconfig.dev.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/bin/Debug/netcoreapp2.1/sequentialDigits.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/bin/Debug/netcoreapp2.1/sequentialDigits.pdb
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/obj/Debug/netcoreapp2.1/sequentialDigits.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/sequentialDigits/obj/Debug/netcoreapp2.1/sequentialDigits.pdb
