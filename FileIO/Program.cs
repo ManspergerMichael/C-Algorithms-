@@ -7,8 +7,13 @@ namespace FileIO
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Please enter the filepath and name");
+            System.Console.WriteLine("Hint './filename'");
+            String fileName = Console.ReadLine();
+            System.Console.WriteLine("Please enter which column you want to check for duplicates");
+            int column = Convert.ToInt32(Console.ReadLine());
             
-            ReadFile("./TestFile.csv", 2);
+            ReadFile(fileName, column);
         }
         public static void ReadFile(String fileName, int column)
         {
@@ -24,6 +29,9 @@ namespace FileIO
                 System.Console.WriteLine(e.Message);
             }
             String file = System.IO.File.ReadAllText(fileName);
+            if(file.Length <=0){
+                System.Console.WriteLine("File Empty");
+            }
             using (StringReader reader = new StringReader(file))
             {
                 String line;
@@ -84,11 +92,12 @@ namespace FileIO
             }
             
 
-          
+            /* 
             foreach(KeyValuePair<String,int> item in dict)
             {
                 System.Console.WriteLine("Key: {0}, Value: {1}",item.Key,item.Value);
             }
+            */
            
         }
     }
