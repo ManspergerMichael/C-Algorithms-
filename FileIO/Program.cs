@@ -33,6 +33,7 @@ namespace FileIO
                 {
                     if(column == 1)
                     {
+                        //System.Console.WriteLine(line.Substring(0,1));
                         if(dict.ContainsKey(line.Substring(0,1)))
                         {
                             dict[line.Substring(0,1)] += 1;
@@ -44,14 +45,14 @@ namespace FileIO
                     }
                     if(column == 2)
                     {
-                        if(dict.ContainsKey(line.Substring(2,0)))
+                        if(dict.ContainsKey(line.Substring(2,1)))
                         {
-                            dict[line.Substring(2,0)] += 1;
+                            dict[line.Substring(2,1)] += 1;
                         }
                         else{
-                            dict.Add(line.Substring(2,0), 1);
+                            dict.Add(line.Substring(2,1), 1);
                         }
-                        System.Console.WriteLine(line.Substring(2,1));
+                        //System.Console.WriteLine(line.Substring(2,1));
                     }
                     
                 }
@@ -59,7 +60,7 @@ namespace FileIO
             }
             foreach(KeyValuePair<String,int> item in dict)
             {
-                System.Console.WriteLine(item.Key + " " + item.Value);
+                System.Console.WriteLine("Key: {0}, Value: {1}",item.Key,item.Value);
             }
         }
     }
