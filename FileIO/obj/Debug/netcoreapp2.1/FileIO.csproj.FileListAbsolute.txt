@@ -1,0 +1,11 @@
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/bin/Debug/netcoreapp2.1/FileIO.deps.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/bin/Debug/netcoreapp2.1/FileIO.runtimeconfig.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/bin/Debug/netcoreapp2.1/FileIO.runtimeconfig.dev.json
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/bin/Debug/netcoreapp2.1/FileIO.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/bin/Debug/netcoreapp2.1/FileIO.pdb
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/obj/Debug/netcoreapp2.1/FileIO.csprojAssemblyReference.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/obj/Debug/netcoreapp2.1/FileIO.csproj.CoreCompileInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/obj/Debug/netcoreapp2.1/FileIO.AssemblyInfoInputs.cache
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/obj/Debug/netcoreapp2.1/FileIO.AssemblyInfo.cs
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/obj/Debug/netcoreapp2.1/FileIO.dll
+/Users/michaelmansperger/Documents/GitHub/C-Algorithms-/FileIO/obj/Debug/netcoreapp2.1/FileIO.pdb
