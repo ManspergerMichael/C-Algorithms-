@@ -56,9 +56,21 @@ namespace FileIO
                     } 
                 }
             }
+            //print duplicates
+            System.Console.WriteLine("These Duplicates where found");
             using (StringReader reader = new StringReader(file))
             {
+                if(column == 1){
+                    String line = reader.ReadLine();
+                    String check = line.Substring(0,1);
+                    if(dict.ContainsKey(check) && dict[check] > 1)
+                    {
+                        System.Console.WriteLine(line);
+                    }
+                }
             }
+            
+
             /* for testing  */
             foreach(KeyValuePair<String,int> item in dict)
             {
