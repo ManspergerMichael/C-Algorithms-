@@ -60,22 +60,37 @@ namespace FileIO
             System.Console.WriteLine("These Duplicates where found");
             using (StringReader reader = new StringReader(file))
             {
-                if(column == 1){
-                    String line = reader.ReadLine();
-                    String check = line.Substring(0,1);
-                    if(dict.ContainsKey(check) && dict[check] > 1)
+                String line = reader.ReadLine();
+                String check;
+                while((line = reader.ReadLine()) != null)
+                {
+                    line = reader.ReadLine();
+                    if(column == 1){
+                        check = line.Substring(0,1);
+                        if( dict[check] > 1)
+                        {
+                            System.Console.WriteLine(line);
+                        }
+                    }
+                    else if(column == 2)
                     {
-                        System.Console.WriteLine(line);
+                        check = line.Substring(2,1);
+                        if( dict[check] > 1)
+                        {
+                            System.Console.WriteLine(line);
+                        }
                     }
                 }
+                
             }
             
 
-            /* for testing  */
+          
             foreach(KeyValuePair<String,int> item in dict)
             {
                 System.Console.WriteLine("Key: {0}, Value: {1}",item.Key,item.Value);
             }
+           
         }
     }
 }
