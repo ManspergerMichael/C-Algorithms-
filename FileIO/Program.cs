@@ -8,7 +8,7 @@ namespace FileIO
         static void Main(string[] args)
         {
             
-            ReadFile("./TestFile.csv", 1);
+            ReadFile("./TestFile.csv", 2);
         }
         public static void ReadFile(String fileName, int column)
         {
@@ -64,7 +64,6 @@ namespace FileIO
                 String check;
                 while((line = reader.ReadLine()) != null)
                 {
-                    line = reader.ReadLine();
                     if(column == 1){
                         check = line.Substring(0,1);
                         if( dict[check] > 1)
