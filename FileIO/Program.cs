@@ -8,7 +8,7 @@ namespace FileIO
         static void Main(string[] args)
         {
             
-            ReadFile("./TestFile.csv", 2);
+            ReadFile("./TestFile.csv", 1);
         }
         public static void ReadFile(String fileName, int column)
         {
@@ -53,11 +53,13 @@ namespace FileIO
                             dict.Add(line.Substring(2,1), 1);
                         }
                         //System.Console.WriteLine(line.Substring(2,1));
-                    }
-                    
+                    } 
                 }
-
             }
+            using (StringReader reader = new StringReader(file))
+            {
+            }
+            /* for testing  */
             foreach(KeyValuePair<String,int> item in dict)
             {
                 System.Console.WriteLine("Key: {0}, Value: {1}",item.Key,item.Value);
